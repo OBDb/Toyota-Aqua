@@ -1,0 +1,9 @@
+command_id: 7D0.2162
+test_cases:
+- expected_values:
+    TOYOTA_PARKING_BRAKE: 'Off'
+  response: |-
+    7D8046162013A
+    7DF020104
+    7E8034104F1
+    7EA034104F0
